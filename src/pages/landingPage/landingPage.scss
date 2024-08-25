@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+#landing-page-container {
+  display: flex;
+  flex-direction: column;
+  height: 95vh;
+  #title-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #sub-title-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
